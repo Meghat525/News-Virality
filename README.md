@@ -5,4 +5,6 @@ This repository contains:
 
 I have set the criteria for a news to be viral to 1500 shares.
 
+Link to download the dataset (Output of News Crawler.py)- https://drive.google.com/file/d/11-BXrg2OrcONuaORz9v500RHA609QrQ3/view?usp=sharing
+
 Note: The News_Virality.ipynb file requires tensorflow==2.0.0-alpha0.
